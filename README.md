@@ -54,6 +54,8 @@ conda env create -f environment.yml
 
 ## Info
 
+(please do not complete the notebooks before the tutorials)
+
 - [x] Week 1: introduction
 
   - intro
@@ -61,5 +63,8 @@ conda env create -f environment.yml
   - first ML trainings
 
 - [ ] Week 2: shortcut learning
-- [ ] Week 3:
-- [ ] Week 4:
+- [ ] Week 3: uncertainty
+- [ ] Week 4: transformers
+- [ ] Week 5: continual / meta learning
+- [ ] Week 6: drug discovery
+- [ ] Week 7: into the wild
