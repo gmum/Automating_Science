@@ -20,13 +20,15 @@ We highly encourage you to attend the classes and engage with your colleagues.
 
 ## Grading
 
-Project 60% composed of:
+Exam 25% 
+
+Project 50% composed of:
 
 - first stage 20 %
 - mid stage 20 %
 - final stage 60 %
 
-Homework 30% where:
+Homework 15% where:
 
 - top 3 notebooks 50%
 - rest notebooks 50%
