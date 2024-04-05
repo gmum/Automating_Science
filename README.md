@@ -18,6 +18,7 @@ We highly encourage you to attend the classes and engage with your colleagues.
 - [Pegaz](https://pegaz.uj.edu.pl/course/view.php?id=625462)
 - [Notes from the lectures](https://docs.google.com/presentation/d/1IOJG0ixTsbYHxkcp_Vo_vCG90n5zfwVJipOlrzPrd7Q/edit)
 - [Book](https://fleuret.org/public/lbdl.pdf)
+- [Project](https://docs.google.com/document/d/1y9QAziR5wiiu4kj0vEl6_TC4WvsghJHbL4pcK0Wss7Y/edit?usp=sharing)
 
 ## Grading
 
@@ -70,7 +71,7 @@ conda env create -f environment.yml
 - [x] Week 2: shortcut learning
 - [x] Week 3: uncertainty
 - [x] Week 4: uncertainty and anomaly detection
-- [ ] Week 5: [remote] Project discussions
+- [x] Week 5: [remote] Project discussions
 - [ ] Week 6: transformers
 - [ ] Week 7: continual / multi learning
 - [ ] Week 8: drug discovery
