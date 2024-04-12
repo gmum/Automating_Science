@@ -72,7 +72,7 @@ conda env create -f environment.yml
 - [x] Week 3: uncertainty
 - [x] Week 4: uncertainty and anomaly detection
 - [x] Week 5: [remote] Project discussions
-- [ ] Week 6: transformers
-- [ ] Week 7: continual / multi learning
+- [x] Week 6: transformers
+- [ ] Week 7: [not-sure] continual / multi learning
 - [ ] Week 8: drug discovery
 - [ ] Week 9+: into the wild / project meetings
