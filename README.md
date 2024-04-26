@@ -19,6 +19,7 @@ We highly encourage you to attend the classes and engage with your colleagues.
 - [Notes from the lectures](https://docs.google.com/presentation/d/1IOJG0ixTsbYHxkcp_Vo_vCG90n5zfwVJipOlrzPrd7Q/edit)
 - [Book](https://fleuret.org/public/lbdl.pdf)
 - [Project](https://docs.google.com/document/d/1y9QAziR5wiiu4kj0vEl6_TC4WvsghJHbL4pcK0Wss7Y/edit?usp=sharing)
+- [MLinPL Presentation](https://docs.google.com/presentation/d/13g7c4KcGMS0p_ufVhbBIrckbLPUu_D6Yc6mLD4rbqS8/edit?usp=sharing)
 
 ## Grading
 
@@ -63,16 +64,11 @@ conda env create -f environment.yml
 (please do not complete the notebooks before the tutorials)
 
 - [x] Week 1: introduction
-
-  - intro
-  - python: numpy, torch
-  - first ML trainings
-
 - [x] Week 2: shortcut learning
 - [x] Week 3: uncertainty
 - [x] Week 4: uncertainty and anomaly detection
 - [x] Week 5: [remote] Project discussions
 - [x] Week 6: transformers
 - [x] Week 7: continual learning
-- [ ] Week 8: drug discovery
+- [x] Week 8: drug discovery
 - [ ] Week 9+: into the wild / project meetings
